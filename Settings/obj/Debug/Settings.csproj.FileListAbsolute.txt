@@ -1,0 +1,11 @@
+D:\Projects\Settings\bin\Debug\Settings.config
+D:\Projects\Settings\bin\Debug\Settings.dll
+D:\Projects\Settings\bin\Debug\Settings.pdb
+D:\Projects\Settings\obj\Debug\Settings.csprojResolveAssemblyReference.cache
+D:\Projects\Settings\obj\Debug\Settings.dll
+D:\Projects\Settings\obj\Debug\Settings.pdb
+D:\Projects\ConfigLinkTest\Settings\bin\Debug\Settings.config
+D:\Projects\ConfigLinkTest\Settings\bin\Debug\Settings.dll
+D:\Projects\ConfigLinkTest\Settings\bin\Debug\Settings.pdb
+D:\Projects\ConfigLinkTest\Settings\obj\Debug\Settings.dll
+D:\Projects\ConfigLinkTest\Settings\obj\Debug\Settings.pdb

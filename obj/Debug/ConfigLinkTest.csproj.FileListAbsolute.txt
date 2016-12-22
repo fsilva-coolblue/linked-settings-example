@@ -1,7 +1,0 @@
-D:\Projects\ConfigLinkTest\bin\Debug\Settings.config
-D:\Projects\ConfigLinkTest\bin\Debug\ConfigLinkTest.exe.config
-D:\Projects\ConfigLinkTest\bin\Debug\ConfigLinkTest.exe
-D:\Projects\ConfigLinkTest\bin\Debug\ConfigLinkTest.pdb
-D:\Projects\ConfigLinkTest\obj\Debug\ConfigLinkTest.exe
-D:\Projects\ConfigLinkTest\obj\Debug\ConfigLinkTest.pdb
-D:\Projects\ConfigLinkTest\obj\Debug\ConfigLinkTest.csprojResolveAssemblyReference.cache
