@@ -13,4 +13,5 @@ Noteworthy things:
 
 [Using the settings file](ConfigLinkTest/App.config#L4)
 
-[The link to the settings file](ConfigLinkTest/ConfigLinkTest.csproj#L51) (To do this in Visual Studio, simply drag the file over to the project while pressing `Ctrl+Shift`)
+[The link to the settings file](ConfigLinkTest/ConfigLinkTest.csproj#L51)
+(To do this in Visual Studio, simply drag the file over to the project while pressing `Ctrl+Shift`. Or add it to the project using `Add >  Existing Item > Add as Link`)
